@@ -1,0 +1,434 @@
+/* Medium Layout: 1280px. */
+@media only screen and (min-width: 992px) and (max-width: 1200px) { 
+  
+    
+}
+/* Tablet Layout: 768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) { 
+.header-content ul li {
+	margin-right: 10px !important;
+}
+.support i.fas {
+	font-size: 11px !important;
+}
+    
+.support-phone {
+	font-size: 13px !important;
+}    
+    
+    
+.home-slider-content {
+	bottom: 10% !important;
+}
+    
+ .home-slider-content strong {
+	font-size: 23px !important;
+}   
+    
+.text {
+	font-size: 25px !important;
+}
+    
+.counter-contant {
+	height: 170px !important;
+	width: 163px !important;
+	padding-top: 44px !important;
+	
+}
+    
+.counter-contant p {
+	font-size: 14px !important;
+}   
+    
+    
+    
+.client-list button.owl-prev {
+	left: 39% !important;
+}    
+    
+.client-list button.owl-next {
+	right: 44% !important;
+
+}
+    
+.blog-date {
+	top: 21% !important;
+	
+}
+ 
+ 
+.blog-title a {
+	font-size: 16px !important;
+}
+    
+
+   
+.footer-title {
+	font-size: 15px !important;
+}
+    
+.footer-social a {
+	width: 30px !important;
+	height: 30px !important;
+	line-height: 30px !important;
+	margin-right: 2px !important;
+	font-size: 12px !important;
+}
+    
+ .footer-menu ul li {
+	margin-bottom: 10px !important;
+}   
+    
+.footer-menu ul li a {
+	font-size: 14px !important;
+}
+    
+    
+
+    
+/*-------contact-page--------------*/
+.contact-icon {
+	position: inherit !important;
+	left: inherit !important;
+	bottom: inherit !important;
+	margin-right: 0 !important;
+	margin-bottom: 10px !important;
+}
+    
+.contact-item {
+	margin-bottom: 18px !important;
+}
+.contact-p-content {
+	margin-left: 0 !important;
+} 
+
+/*--------about page---------*/
+    .about-page-title {
+	font-size: 32px !important;
+}
+.vedio-btn {
+	left: 36% !important;
+	top: 17% !important;
+
+}
+    
+
+    
+.client-page-content {
+	column-count: 3 !important;
+
+}
+
+.projects-detalis-wrpp {
+	padding: 7px !important;
+}
+    
+    
+.project-page-social ul li {
+	margin-right: 7px !important;
+}
+    
+    
+.projects-detalis ul li {
+	font-size: 15px !important;
+}
+    
+    
+ 
+.team-page-content {
+	column-count: 3 !important;
+	
+}
+    
+}
+
+/* Mobile Layout: 320px. */
+@media only screen and (max-width: 767px) { 
+    
+  /*============== Header Start ==================*/
+.company-title {
+	text-align: center !important;
+	margin-bottom: 10px !important;
+}
+.top-social {
+	text-align: center !important;
+}    
+    
+    /*============== Header End ==================*/
+    
+    
+/*============== Menu Start ==================*/
+.logo img {
+	margin-bottom: 8px !important;
+}
+    
+.stellarnav.dark a {
+	color: #fff !important;
+}
+    
+.stellarnav.dark {
+	background: rgb(15, 79, 23) !important;
+	margin-bottom: 10px !important;
+}
+.stellarnav.mobile.dark ul {
+	background: rgb(15, 79, 23)!important;
+}
+.stellarnav.dark li a {
+	color: #fff !important;
+}
+    
+/*============== Menu End ==================*/  
+    
+/*============== Home Slider Start ==================*/  
+.home-slider-content {
+	left: 24% !important;
+	top: 42px !important;
+	overflow: inherit;
+} 
+    
+.text span {
+	font-size: 16px !important;
+	padding: 5px 20px !important;
+}
+    
+.home-content {
+	display: none!important;
+}
+    
+
+
+    
+/*==============  Home Slider End ==================*/ 
+    
+    
+    
+/*==============  Speech-section Start ==================*/  
+.box-shadow {
+	margin-bottom: 18px !important;
+}
+    
+/*==============  Speech-section End ==================*/ 
+    
+    
+
+    
+/*==============  porjects-section Start ==================*/
+.porjects-section {
+	padding: 26px 0 !important;
+}
+
+.proejects-content {
+	column-count: 1 !important;
+}
+    
+.projects-title a {
+	font-size: 15px !important;
+	
+}    
+    
+    
+/*==============  porjects-section End ==================*/
+    
+ 
+    
+/*==============  Counter-section Start ==================*/  
+.counter-section {
+	padding: 20px 0 !important;
+}
+.counter-contant {
+	margin-bottom: 27px !important;
+}
+  
+ /*==============  Counter-section End ==================*/ 
+    
+    
+/*==============  Counter-section Start ==================*/ 
+.client-list button.owl-next {
+	right: 52% !important;
+}
+.client-list button.owl-prev {
+	left: 50%!important;
+	
+}
+ /*==============  Counter-section End ==================*/ 
+    
+    
+ /*==============  Team-section Start ==================*/ 
+    
+.team-list .owl-dots {
+	left: 35% !important;
+	
+} 
+ /*==============  Team-section End ==================*/  
+    
+   
+    
+    
+/*==============  Gallery-section Start ==================*/ 
+.gallery-content {
+	column-count: 2 !important;
+}
+/*==============  Gallery-section End ==================*/
+    
+    
+ /*==============  Latest-section Start ==================*/   
+.blog-date {
+    top: 37% !important;
+}  
+    
+.blog-list .owl-dots {
+	left: 34% !important;
+} 
+    
+ /*==============  Latest-section End ==================*/      
+
+.video-list .owl-dots {
+	left: 33% !important;
+}
+    
+    
+.design-developed a {
+	font-size: 16px !important;
+}
+    
+.copy-right {
+    text-align: center !important;
+}  
+.footer-social {
+	margin-bottom: 25px !important;
+}
+    
+    
+ /*=================Home page End===============*/  
+    
+    
+    
+ /*================= page css start===============*/   
+    
+ .all-page-section {
+	padding: 33px 0 52px !important;
+	margin-bottom: 20px !important;
+}   
+.all-page-header-title {
+	font-size: 30px !important;
+}    
+    
+/*----about-page-start---------*/ 
+.about-page-title {
+    font-size: 25px !important;
+}
+    .vedio-btn {
+	left: 37% !important;
+	top: 34% !important;
+	
+}
+/*----about-page-end---------*/  
+    
+ .client-page-content {
+	column-count: 1 !important;
+}
+    
+    
+.latest-content {
+	column-count: 1 !important;
+}
+      
+.services-page-content {
+	column-count: 1 !important;
+	
+}
+    
+.team-page-content {
+	column-count: 1 !important;
+} 
+    
+.archive-page-content {
+	column-count: 1 !important;
+}    
+    
+    
+    
+    
+   .single-project-page-title {
+    margin-top: 20px;
+	}
+    
+    
+}
+
+
+
+
+/* Wide Mobile Layout: 480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) { 
+    
+
+    /*=======blog Section Start============*/
+.blog-date {
+	top: 19% !important;
+}
+    
+.blog-title a {
+	font-size: 16px !important;
+	
+}    
+   
+ 
+    
+     /*=======blog Section End============*/  
+    
+  .design-developed {
+	text-align: center !important;
+}  
+    
+    
+    
+.cat_image_title a {
+	font-size: 15px !important;
+}
+
+     
+    .latest-content {
+	column-count: 2 !important;
+	column-gap: 15px !important;
+}
+ 
+.proejects-content {
+	column-count: 2 !important;
+  
+        
+}
+    
+.services-page-wrpp {
+	margin-bottom: 11px !important;
+	
+}
+    
+.services-page-content {
+	column-count: 2!important;
+      column-gap: 10px !important;
+}
+.services-title {
+	font-size: 17px !important;
+}
+
+.services-content {
+	font-size: 15px !important;
+}
+   
+.team-page-content {
+	column-count: 2 !important;
+} 
+    
+.client-page-content {
+	column-count: 2 !important;
+}
+
+    
+    .archive-page-content {
+	column-count: 2 !important;
+}
+    
+    
+    
+}
